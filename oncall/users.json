@@ -1,0 +1,62 @@
+[
+    {
+        "id": 6,
+        "name": "r.ignatov",
+        "full_name": "Rostislav Ignatov",
+        "time_zone": "Europe/Moscow",
+        "photo_url": null,
+        "active": 1,
+        "god": 0,
+        "contacts": {
+            "email": "r.ignatov@example.com",
+            "sms": "+7 111-111-1111",
+            "call": "+7 111-111-1111",
+            "slack": "r.ignatov"
+        }
+    },
+    {
+        "id": 7,
+        "name": "y.borisov",
+        "full_name": "Yevgeny Borisov",
+        "time_zone": "Europe/Moscow",
+        "photo_url": null,
+        "active": 1,
+        "god": 0,
+        "contacts": {
+            "email": "y.borisov@example.com",
+            "sms": "+7 222-222-2222",
+            "call": "+7 222-222-2222",
+            "slack": "y.borisov"
+        }
+    },
+    {
+        "id": 8,
+        "name": "a.sokolovsky",
+        "full_name": "Albert Sokolovsky",
+        "time_zone": "Europe/Moscow",
+        "photo_url": null,
+        "active": 1,
+        "god": 0,
+        "contacts": {
+            "email": "a.sokolovsky@example.com",
+            "sms": "+7 333-333-3333",
+            "call": "+7 333-333-3333",
+            "slack": "a.sokolovsky"
+        }
+    },
+    {
+        "id": 9,
+        "name": "a.yakovlev",
+        "full_name": "Andrey Yakovlev",
+        "time_zone": "Europe/Moscow",
+        "photo_url": null,
+        "active": 1,
+        "god": 0,
+        "contacts": {
+            "email": "a.yakovlev@example.com",
+            "sms": "+7 444-444-4444",
+            "call": "+7 444-444-4444",
+            "slack": "a.yakovlev"
+        }
+    }
+]
