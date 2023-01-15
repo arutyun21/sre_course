@@ -1,0 +1,11 @@
+[Unit]
+Description=Node-Exporter service
+
+[Service]
+User=prometheus 
+Group=prometheus
+
+ExecStart=/usr/local/bin/node_exporter --web.listen-address=0.0.0.0:9100 --collector.textfile.directory=/opt/prometheus_exporters/textfile --collector.disable-defaults  --collector.cpu --collector.diskstats --collector.filesystem --collector.loadavg --collector.meminfo --collector.netstat --collector.sockstat --collector.time --collector.textfile
+
+[Install] 
+WantedBy=multi-user.target
